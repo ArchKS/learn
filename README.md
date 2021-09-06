@@ -1,6 +1,8 @@
-❡Author: zendu 
+**封装**
 
-❡Date: 2021-09-06 16:29:11 
+SimUDuck 游戏设计模型
 
+<div align="center">
+    <img src="./day01/IMG_SimUDuck.jpeg"/>
+</div>
 
-❡Desc: 学习仓库，分支管理
